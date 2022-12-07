@@ -11,28 +11,28 @@ int main()
             if (i==1){
                 printf("one \n");
             }
-            if (i==2){
+            else if (i==2){
                 printf("two \n");
             }
-            if (i==3){
+            else if (i==3){
                 printf("three \n");
             }
-            if (i==4){
+            else if (i==4){
                 printf("four \n");
             }
-            if (i==5){
+            else if (i==5){
                 printf("five \n");
             }
-            if (i==6){
+            else if (i==6){
                 printf("six \n");
             }
-            if (i==7){
+            else if (i==7){
                 printf("seven \n");
             }
-            if (i==8){
+            else if (i==8){
                 printf("eight \n");
             }
-            if (i==9){
+            else if (i==9){
                 printf("nine \n");
             }
         }
@@ -41,7 +41,7 @@ int main()
             if (i%2==0){
                 printf("even \n");
             }
-          else{
+            else{
                 printf("odd \n");
             }
             
