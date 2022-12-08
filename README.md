@@ -1,2 +1,5 @@
 # C-Hackerrank-Problems
-Solutions to all the C Preparation Problems on HackerRank
+
+Solutions to the C Preparation Problems on HackerRank
+
+The Remaining and New solutions will be uploaded.
